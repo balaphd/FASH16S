@@ -19,7 +19,7 @@ Fast Automated SHell based 16S NGS data analysis
 ###(1) automation of running 16S ngs analysis with multiple steps as single tool useful to quickly check the sequences upon arrival
 ###(2) Confidential data within certain  network can be mounted using CIFS on any Linux workstation or server securely using FASH16S and can be analysed within that network
 ###(3) Data management organisation integrated in the pipeline which saves time in the present and future of the analysis
-###(4) Transperancy and reproducibility is possible in github(www.github.com/FASH16S) 
+###(4) Transperancy and reproducibility is possible in github(https://github.com/balaphd/FASH16S) 
 ###(5) R codes executed by R CMD BATCH can perform the data analysis schema included in the pipeline so that the report can be generated with statistics and visualizations
 ###()
 
